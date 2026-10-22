@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">SNS Bachelor Rooms: a simple Mamelodi home for four tenants</title>
+  <path fill="#F4C430" d="M64 4C39 4 18 24 18 49c0 31 46 74 46 74s46-43 46-74C110 24 89 4 64 4Z"/>
+  <circle cx="94" cy="30" r="9" fill="#35775C"/>
+  <circle cx="94" cy="30" r="3.5" fill="#FFFEFA"/>
+  <path fill="#252624" d="m19 53 45-36 45 36v9L64 27 19 62z"/>
+  <path fill="#FFFEFA" stroke="#252624" stroke-linejoin="round" stroke-width="4" d="M29 53 64 26l35 27v47H29z"/>
+  <g fill="#252624">
+    <circle cx="42" cy="64" r="4"/><path d="M37 70c0-3 2-5 5-5s5 2 5 5v14H37z"/>
+    <circle cx="57" cy="64" r="4"/><path d="M52 70c0-3 2-5 5-5s5 2 5 5v14H52z"/>
+    <circle cx="72" cy="64" r="4"/><path d="M67 70c0-3 2-5 5-5s5 2 5 5v14H67z"/>
+    <circle cx="87" cy="64" r="4"/><path d="M82 70c0-3 2-5 5-5s5 2 5 5v14H82z"/>
+  </g>
+  <path fill="#35775C" d="M29 94h70v7H29z"/>
+  <path fill="#252624" d="M25 101h78v4H25z"/>
+</svg>

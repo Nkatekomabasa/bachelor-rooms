@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+	<title id="title">Room to Rent house, key, four people and location logo</title>
+	<path fill="#F4C430" d="M60 5c-20 0-36 16-36 36 0 24 36 72 36 72s36-48 36-72C96 21 80 5 60 5Z"/>
+	<path fill="#252624" d="m21 47 39-31 39 31v9l-39-31-39 31z"/>
+	<path fill="#FFFEFA" d="M29 48 60 24l31 24v42H29z"/>
+	<g fill="#252624">
+		<circle cx="38" cy="64" r="3.5"/><path d="M34 69c0-2 1.5-3.5 4-3.5s4 1.5 4 3.5v6h-8z"/>
+		<circle cx="52" cy="64" r="3.5"/><path d="M48 69c0-2 1.5-3.5 4-3.5s4 1.5 4 3.5v6h-8z"/>
+		<circle cx="66" cy="64" r="3.5"/><path d="M62 69c0-2 1.5-3.5 4-3.5s4 1.5 4 3.5v6h-8z"/>
+		<circle cx="80" cy="64" r="3.5"/><path d="M76 69c0-2 1.5-3.5 4-3.5s4 1.5 4 3.5v6h-8z"/>
+	</g>
+	<path fill="none" stroke="#D6A500" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" d="M47 45h27m-7-7a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm7 7v4h-4v4h-4"/>
+</svg>

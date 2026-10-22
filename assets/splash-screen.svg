@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" role="img" aria-labelledby="title">
+	<title id="title">Room to Rent mobile splash screen</title>
+	<rect width="1080" height="1920" fill="#F4C430"/>
+	<circle cx="540" cy="740" r="315" fill="#FFFEFA"/>
+	<image href="room-to-rent-logo.svg" x="310" y="510" width="460" height="460"/>
+	<text x="540" y="1120" fill="#252624" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="74" font-weight="800">Room to Rent</text>
+	<text x="540" y="1195" fill="#4A421E" text-anchor="middle" font-family="Arial,sans-serif" font-size="31">Find your perfect room today</text>
+</svg>

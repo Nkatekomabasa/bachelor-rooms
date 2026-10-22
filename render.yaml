@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: room-to-rent
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
